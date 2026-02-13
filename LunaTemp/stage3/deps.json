@@ -1,0 +1,38 @@
+{
+  "ignores": [
+    "C:/2D-Pong-Game/LunaTemp/stage3/processed-scripts/Assets/Resources/Scripts/Controllers/Ctrl_LevelLayout.cs"
+  ],
+  "groups": [
+    [
+      "C:/2D-Pong-Game/LunaTemp/stage3/processed-scripts/Assets/Resources/Scripts/Controllers/Ctrl_Ball.cs",
+      "C:/2D-Pong-Game/LunaTemp/stage3/processed-scripts/Assets/Resources/Scripts/Controllers/Ctrl_BotBorder.cs",
+      "C:/2D-Pong-Game/LunaTemp/stage3/processed-scripts/Assets/Resources/Scripts/Controllers/Ctrl_GamePlay.cs",
+      "C:/2D-Pong-Game/LunaTemp/stage3/processed-scripts/Assets/Resources/Scripts/Controllers/Ctrl_Paddle.cs",
+      "C:/2D-Pong-Game/LunaTemp/stage3/processed-scripts/Assets/Resources/Scripts/Controllers/Ctrl_PowerUp.cs",
+      "C:/2D-Pong-Game/LunaTemp/stage3/processed-scripts/Assets/Resources/Scripts/GlobalScripts/Enum.cs",
+      "C:/2D-Pong-Game/LunaTemp/stage3/processed-scripts/Assets/Resources/Scripts/Controllers/Ctrl_LevelLayout.cs",
+      "C:/2D-Pong-Game/LunaTemp/stage3/processed-scripts/Assets/Resources/Scripts/ScriptableObjects/So_LevelData.cs",
+      "C:/2D-Pong-Game/LunaTemp/stage3/processed-scripts/Assets/Resources/Scripts/Managers/GameManager.cs",
+      "C:/2D-Pong-Game/LunaTemp/stage3/processed-scripts/Assets/Resources/Scripts/Controllers/Ctrl_Brick.cs",
+      "C:/2D-Pong-Game/LunaTemp/stage3/processed-scripts/Assets/Resources/Scripts/Managers/LevelEditor.cs",
+      "C:/2D-Pong-Game/LunaTemp/stage3/processed-scripts/Assets/Resources/Scripts/Controllers/Ctrl_UIGamePlay.cs",
+      "C:/2D-Pong-Game/LunaTemp/stage3/processed-scripts/Assets/Resources/Scripts/Controllers/Ctrl_UIMainMenu.cs",
+      "C:/2D-Pong-Game/LunaTemp/stage3/processed-scripts/Assets/Resources/Scripts/Helpers/Hlpr_ScreenSize.cs"
+    ],
+    [
+      "C:/2D-Pong-Game/LunaTemp/stage3/processed-scripts/Assets/Resources/Scripts/Helpers/Hlpr_ResizeSpriteFullScreen.cs"
+    ],
+    [
+      "C:/2D-Pong-Game/LunaTemp/stage3/processed-scripts/Assets/Resources/Scripts/Managers/Bootstrapper.cs"
+    ],
+    [
+      "C:/Users/Min Khant/Downloads/7.0.0/pipeline/templates/LunaCompiler/Scripts/Properties/AssemblyInfo.cs"
+    ],
+    [
+      "C:/Users/Min Khant/Downloads/7.0.0/pipeline/templates/LunaCompiler/Scripts/Sources/OtherDummyScript.cs"
+    ],
+    [
+      "C:/Users/Min Khant/Downloads/7.0.0/pipeline/templates/LunaCompiler/Scripts/obj/Debug/.NETFramework,Version=v4.7.AssemblyAttributes.cs"
+    ]
+  ]
+}

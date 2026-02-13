@@ -1,3 +1,4 @@
+using System.Collections;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -16,7 +17,19 @@ public class Ctrl_UIMainMenu : MonoBehaviour
 
     private void Start()
     {
+        // yield return new WaitForSeconds(1f); // Give the loader a moment
+         Luna.Unity.LifeCycle.GameStarted();
         Reset();
+    }
+
+    void Update()
+    {
+        // If the screen is black, click it. This will force the game to start.
+        if (Input.GetMouseButtonDown(0))
+        {
+            Luna.Unity.LifeCycle.GameStarted();
+            Debug.Log("Starting");
+        }
     }
 
     private void OnClickBtnPlay()

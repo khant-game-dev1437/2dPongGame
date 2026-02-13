@@ -68,6 +68,7 @@ public class Ctrl_GamePlay : MonoBehaviour
                 powerUpContrl = Instantiate(_powerUpBallImmunityControl, position, Quaternion.identity, _tfPowerUpParent);
                 break;
         }
+        powerUpContrl.Init(this);
         powerUpContrl.gameObject.SetActive(true);
     }
 
